@@ -34,7 +34,7 @@ p {
 }
 
 .nav-trigger.open {
-  background: #222;
+  background: #3F4AFF;
 }
 
 .nav-trigger.close {
@@ -128,7 +128,7 @@ nav li {
 }
 
 nav li:hover {
-  background: #364e41;
+  background: #3F4AFF; /* #22FD85; */
 }
 
 nav.in li:nth-child(1) {
@@ -254,4 +254,22 @@ nav.in li {
   max-width: 600px;
   padding: 20px;
   margin: 0 auto;
+}
+
+/* new content */
+
+/*
+.site-wrapper h1 {
+  color: #3F4AFF;
+}
+*/
+
+
+#site-wrapper .about {
+  color: #3F4AFF;
+  text-align: center;   /* instead of padding, this is responsive */
+}
+
+#site-wrapper .about_section {
+  background-color: #E2E9FC;
 }

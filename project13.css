@@ -264,12 +264,40 @@ nav.in li {
 }
 */
 
+#site-wrapper #about_section {
+  background-color: #E2E9FC;
+  
+}
 
 #site-wrapper .about {
   color: #3F4AFF;
   text-align: center;   /* instead of padding, this is responsive */
 }
 
-#site-wrapper .about_section {
-  background-color: #E2E9FC;
+#site-wrapper .about_text {
+  background-color: #99ccff;
+  padding-left: 500px;
+}
+
+#site-wrapper #about{
+  color: red;
+  text-align: center;
+}
+
+#site-wrapper .portfolio_section {
+  background-color: #ccffff;
+}
+
+#site-wrapper .portfolio {
+  color: #006666;
+  text-align: center;
+}
+
+#site-wrapper .placeholder_section {
+  background-color: #ffb3d1;
+}
+
+#site-wrapper .placeholder {
+  color: #ff0066;
+  text-align: center;
 }

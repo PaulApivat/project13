@@ -53,9 +53,7 @@ function navToggle(e) {
 window.onload = resize();
 
 //navigate from menu to html section
-function aboutNav() {
-  document.getElementById("about_section").style.color = "red";
-}
+
 
 
 
